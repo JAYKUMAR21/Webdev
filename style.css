@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    min-width: 100%;
+    box-sizing: border-box;
+}
+#container{
+    border: 15px solid black;
+    border-radius: 10px;
+    margin: 10%;
+    padding: 5%;
+    /* background-color: gray; */
+}
+#name{
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin: 2%;
+}
+#intro{
+    margin: 1%;
+    font-size:40px;
+    font-weight: bold;
+}
+#Name{
+    margin: 1%;
+    font-size: 50px;
+    font-weight: bolder;
+}
+#dob{
+    margin: 1%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#pic{
+    text-align: center;
+    margin: 2%;
+}
+#pic img{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+#description{
+    text-align: center;
+    margin: 2%; 
+}
+#description p{
+    font-size: 30px;
+    font-family: 'Arial Narrow',Arial, sans-serif;
+}
